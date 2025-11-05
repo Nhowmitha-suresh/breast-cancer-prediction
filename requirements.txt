@@ -1,0 +1,28 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+keras
+
+# Streamlit (for web interface)
+streamlit
+
+# LLM / RAG Integration
+langchain
+llama-index
+faiss-cpu
+tiktoken
+openai
+
+# Supporting Tools
+joblib
+requests
+Pillow
+
+# Optional: Jupyter (for notebooks if used)
+jupyter
